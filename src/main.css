@@ -21,3 +21,8 @@ body {
 footer {
   text-align: center;
 }
+
+.meme {
+  border: 5px solid black;
+  margin: 10px auto;
+}
